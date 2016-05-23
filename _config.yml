@@ -1,0 +1,12 @@
+# Site settings
+title: Adriano Righi | Full Stack Web Developer
+email: contato@adrianorighi.com
+description: >
+  Um blog de um desenvolvedor e entusiasta de novas tecnologias.
+baseurl: ""
+url: "https://adrianorighi.com"
+twitter_username: adrianorighi
+github_username:  adrianorighi
+
+# Build settings
+markdown: kramdown
